@@ -24,6 +24,7 @@ Let's show you how to select and modify code with our API
 const a = 1;
 const b = 2;
 ```
+无敌强
 
 ### Transform With GoGoCode
 
